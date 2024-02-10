@@ -24,7 +24,7 @@ With the following definition, counts of corresponding classifier characteristic
 - FP = 58;
 - FN = 8.
 
-Giving us following performance metrics (definitions as in [Wikipedia's "Precision and Recall" article](https://en.wikipedia.org/wiki/Precision_and_recall]))
+Giving us following performance metrics (definitions as in [Wikipedia's "Precision and Recall" article](https://en.wikipedia.org/wiki/Precision_and_recall))
 - Precision of **0.52**;
 - Recall of **0.89**;
 - F1 of **0.66**.

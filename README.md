@@ -1,5 +1,5 @@
 # CVEsImpactDataset
-## Efficiency of consensual transformation matrix 
+## Efficiency of the consensual transformation matrix 
 The consensually agreed, by our experts, matrix is available at [Matrix_Consensual.xlsx](Transformation_matrices/Matrix_Consensual.xlsx).
 It allows for an easy attribution of effects to CVEs.
 
